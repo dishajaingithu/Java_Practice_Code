@@ -1,7 +1,7 @@
 /* 
 	My First Code
 
-	1) What is class ?
+	1) What is class in Java?
 	-> Group of properties and Functions.
            class starts with Name of the first letter of class is Capital.	
 
